@@ -21,9 +21,9 @@
 ## Projects
 - 웹 페이지 제작
 - [ Past-Forward BE ] [회고 보드 웹 서비스 ](https://github.com/donga-it-club/past-foward-backend) 
-  > - https://pastforward.link
-  > - 팀원 초대 API 설계 및 구현
-  > - 공지사항 게시판 API 설계 및 구현
+  - https://pastforward.link
+  - 팀원 초대 API 설계 및 구현
+  - 공지사항 게시판 API 설계 및 구현
 - [ RPA ] 시간표 알림 자동화 프로세스
   
 
