@@ -1,5 +1,5 @@
 # ✨Baek Min Jeong✨
-- **📫Email** : [chungchung3701@gmail.com]()
+- **📫Email** : chungchung3701@gmail.com
 - **📫Blog** : https://yangheeb.tistory.com
 
 ## Summary
