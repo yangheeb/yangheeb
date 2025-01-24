@@ -3,7 +3,7 @@
 - **📫Blog** : https://yangheeb.tistory.com
 
 ## Summary
-> 현재 백엔드 개발자 취업을 목표로 공부하고 있습니다 👩🏻‍💻
+> 현재 백엔드 개발자 취업을 목표로 공부하고 있습니다👩🏻‍💻
 
 ## Skills
 ### Tech: 한 번 이상 다루어 본 기술들
@@ -19,16 +19,16 @@
 - ..
 
 ## Projects
-- 웹 페이지 제작
-- [ Past-Forward BE ] [회고 보드 웹 서비스 ](https://github.com/donga-it-club/past-foward-backend) 
+- 웹 페이지 제작 ( 2023.11 ~ 12 )
+- [ Past-Forward BE ] [회고 보드 웹 서비스 ](https://github.com/donga-it-club/past-foward-backend) ( 2024.03 ~ 07 )
   - https://pastforward.link
   - 팀원 초대 API 설계 및 구현
   - 공지사항 게시판 API 설계 및 구현
-- [ RPA ] 시간표 알림 자동화 프로세스
+- [ RPA ] 시간표 알림 자동화 프로세스 ( 2024.12 )
   
 
 ## Education
-**🌱 I’m currently learning MIS, Dong-A University** (2022.03 ~ now )
+**🌱 I’m currently learning MIS, Dong-A University** ( 2022.03 ~ now )
 > - 시스템분석및설계
 > - 데이터베이스시스템(I)
 > - 데이터베이스시스템(II)
@@ -41,12 +41,12 @@
 > - 빅데이터분석
 > - 텍스트분석
 
-**Study**
-- 동아대 IT 취업 동아리 SQL 스터디 (2024.01 ~ 03)
-- 동아대 IT 취업 동아리 Spring 스터디 (2024.02 ~ 03)
+**🌱 Study**
+- 동아대 IT 취업 동아리 SQL 스터디 ( 2024.01 ~ 03 )
+- 동아대 IT 취업 동아리 Spring 스터디 ( 2024.02 ~ 03 )
 
 ## Certificate
-- SQLD(2024.04)
+- SQLD ( 2024.04 )
 <!--
 **yangheeb/yangheeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
