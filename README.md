@@ -32,6 +32,7 @@
 ## Education
 **🌱 I’m currently learning MIS, Dong-A University** ( 2022.03 ~ now )
 > - 시스템분석및설계
+> - MIS
 > - 데이터베이스시스템(I)
 > - 데이터베이스시스템(II)
 > - 웹프로그래밍
