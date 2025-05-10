@@ -1,6 +1,8 @@
 # ✨Baek Min Jeong✨
 - **📫Email** : chungchung3701@gmail.com
 - **📫Blog** : https://yangheeb.tistory.com
+  
+![](/github-metrics.svg)
 
 ## Summary
 > 안녕하세요! Java와 Spring Boot를 활용해 물류 및 이커머스 도메인에 특화된 백엔드 시스템을 개발하는 개발자입니다. 
@@ -13,12 +15,22 @@
 ### Tech: 한 번 이상 다루어 본 기술들
 - **Language** : <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=Java&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/> <img src="https://img.shields.io/badge/R-276DC3?style=flat-square&logo=R&logoColor=white">
 - **DBMS** : <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/> <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/> <img src="https://img.shields.io/badge/MongoDB-00684A?style=flat-square&logo=MongoDB&logoColor=white"/> <img src="https://img.shields.io/badge/Neo4j-4479A1?style=flat-square&logo=Neo4j&logoColor=white"/></a>
-- **Framework** :<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=spring&logoColor=white" />
+- **Framework** :<img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/>
 - **Tools** : <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=flat-square&logo=intellij-idea&logoColor=white" /> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/> <img src="https://img.shields.io/badge/UIPath-FA4616?style=flat-square&logo=UIPATH&logoColor=white"/></a>
 
 + Oracle, MySQL, MongoDB, Neo4j를 사용하여 데이터베이스 구축하고 질의 분석 경험 
 + UIPath를 사용하여 RPA 프로세스 개발 경험 
 
+### 앞으로 공부할 것들 (계획 중인 프로젝트)
+- ### 전국 날씨 정보 API 백엔드 서버
+  : 기상청 오픈API를 활용하여 전국 날씨 정보를 수집하고, 이를 MySQL에 저장 후 REST API로 제공하는 백엔드 서버 구축
+- **주요기술**: Java, Spring Boot, MySQL, JPA, AWS EC2
+- **주요기능**:
+
+  - 외부 오픈API에서 JSON 데이터 받아오기
+  - 날씨 데이터를 정제하여 DB에 저장
+  - 최신 날씨 정보를 조회하는 REST API 제공
+  - AWS EC2 서버에 배포 및 운영
 
 ## Projects
 - 웹 페이지 제작 ( 2023.11 ~ 12 )
@@ -69,8 +81,9 @@ OR-Tools로 비용 20% 절감 (시뮬레이션).
   
 
 ## Education
-**🌱 I’m currently learning MIS, Dong-A University** ( 2022.03 ~ now )
+**🌱 I'm currently learning MIS, Dong-A University** ( 2022.03 ~ now )
 > - 시스템분석및설계
+> - MIS
 > - 데이터베이스시스템(I)
 > - 데이터베이스시스템(II)
 > - 웹프로그래밍
@@ -93,10 +106,10 @@ OR-Tools로 비용 20% 절감 (시뮬레이션).
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I'm currently working on ...
+- 🌱 I'm currently learning ...
+- 👯 I'm looking to collaborate on ...
+- 🤔 I'm looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
