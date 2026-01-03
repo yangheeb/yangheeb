@@ -18,37 +18,9 @@
 + UIPath를 사용하여 RPA 프로세스 개발 경험 
 
 
-## Projects
-- 웹 페이지 제작 ( 2023.11 ~ 12 )
-- [ Past-Forward BE ] [회고 보드 웹 서비스 ](https://github.com/donga-it-club/past-foward-backend) ( 2024.03 ~ 07 )
-  - https://pastforward.link
-  - 팀원 초대 API 설계 및 구현
-  - 공지사항 게시판 API 설계 및 구현
-- [ RPA ] 시간표 알림 자동화 프로세스 ( 2024.12 )
-
-  
-
-## Education
-**🌱 I'm currently learning MIS, Dong-A University** ( 2022.03 ~ now )
-> - 시스템분석및설계
-> - MIS
-> - 데이터베이스시스템(I)
-> - 데이터베이스시스템(II)
-> - 웹프로그래밍
-> - 프로그래밍기초
-> - 프로그래밍언어
-> - 네트워크의이해
-> - 경영혁신과RPA
-> - R기반통계분석
-> - 빅데이터분석
-> - 텍스트분석
-
-**🌱 Study**
-- 동아대 IT 취업 동아리 SQL 스터디 ( 2024.01 ~ 03 )
-- 동아대 IT 취업 동아리 Spring 스터디 ( 2024.02 ~ 03 )
-
 ## Certificate
 - SQLD ( 2024.04 )
+- 정보처리기사 ( 2025. 12 )
 <!--
 **yangheeb/yangheeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
