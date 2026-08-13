@@ -1,7 +1,3 @@
-# ✨Baek Min Jeong✨
-- **📫Email** : chungchung3701@gmail.com
-- **📫Blog** : https://yangheeb.tistory.com
-
 ## Summary
 > 안녕하세요! 현재 백엔드 개발자 취업을 목표로 공부하고 있습니다👩🏻‍💻
 
